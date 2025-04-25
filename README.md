@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection using Azure Synapse, PySpark, and LightGBM
 
-This project builds an end-to-end machine learning pipeline for detecting fraudulent transactions using Azure cloud services.  
-Fraud detection is critical because fraudulent events are rare but costly. The solution focuses on scalability, accuracy, and real-time readiness.
-
 ---
 
 ## 📚 Project Overview
